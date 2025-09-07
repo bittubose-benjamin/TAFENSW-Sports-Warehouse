@@ -1,3 +1,3 @@
-# TAFENSW-PROJECT
-Tafe Monday Project
-learniug skills and learn on the IT environment
+# TAFENSW-Spors Warehouse Project
+
+Sprint Release on the Sports Warehouse Project
